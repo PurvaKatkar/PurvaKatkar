@@ -2,8 +2,8 @@
 
 ### About Me:
 
-- 📒I am a Second-Year Student at JSPM's BSIOTR Pune
-- 💻I am currently learning Full-Stack Web Development
+- 📒Final Year Student at JSPM's BSIOTR Pune
+- 💻 Full-Stack Developer
 - 📬How to reach me *purvakatkar12@gmail.com* 
 
 ### Connect with me:
