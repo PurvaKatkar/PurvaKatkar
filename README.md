@@ -1,10 +1,24 @@
-                                                  <b>  Hello! This is Purva Katkar </b>
+  ### Hello! This is Purva Katkar
 
 ### About Me:
 
 - 📒Final Year Student at JSPM's BSIOTR Pune
-- 💻 Full-Stack Developer
+- 💻 Full-Stack Developer | Java Developer
 - 📬How to reach me *purvakatkar12@gmail.com* 
+
+### Languages and Tools:
+- C
+- C++
+- Java
+- HTML
+- CSS
+- Javascript
+- Angular
+- JDBC
+- Hibernate
+- Springboot
+- Mysql
+- Git 
 
 ### Connect with me:
 
