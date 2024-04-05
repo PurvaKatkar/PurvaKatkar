@@ -1,4 +1,4 @@
-                                                    Hello! This is Purva Katkar
+                                                  <b>  Hello! This is Purva Katkar </b>
 
 ### About Me:
 
